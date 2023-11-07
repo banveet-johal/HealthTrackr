@@ -1,6 +1,4 @@
-## How to use
 
-Coming soon.
 
 ## Provisional Feature List
 
@@ -15,7 +13,6 @@ Water Intake Reminder → Users will be able to set an optimistic goal of how mu
 
 Login Page & User Profile → Personal data is recorded and saved for each user. Such personal data includes: weight, height, age, and gender. If the user's goal is to lose weight, they would be able to keep track of their progress.
 
-Todo List → Users can add and keep track of their daily goals and reminders.
 
  
 
