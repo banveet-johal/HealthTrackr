@@ -1,0 +1,17 @@
+import React from 'react'
+import { Typography } from '@mui/material'
+
+const SettingsHydration = () => {
+  return (
+    <>
+      <Typography variant='h1'>
+        Hydration Settings
+      </Typography>
+      <Typography variant="h2" sx={{ color: 'red' }}>
+        Out of Scope
+      </Typography>
+    </>
+  )
+}
+
+export default SettingsHydration
